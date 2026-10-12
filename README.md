@@ -25,7 +25,6 @@ Currently, I'm growing as a software developer through hands-on projects, collab
 ### 🚀 Projects
 
 - **[Trivia Battle Game](https://mahimameena.github.io/Trivia-battle-game/)** — A two-player trivia game built with HTML, CSS, and JavaScript, featuring category selection, difficulty levels, and score tracking.
-- **[News Web Page](https://mahimameena.github.io/news_apl/)** — A news webpage built using HTML and CSS.
 - **[Vending Machine](https://github.com/Mahimameena/VendingMachine)** — A Java console application demonstrating object-oriented programming and vending machine functionality.
 
 ### 🌱 What I'm Working Towards
